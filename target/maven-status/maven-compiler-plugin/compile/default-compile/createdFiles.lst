@@ -1,0 +1,5 @@
+com/university/UniversityApplication.class
+com/university/model/Student.class
+com/university/service/StudentService.class
+com/university/gui/StudentGUI.class
+com/university/repository/StudentRepository.class
